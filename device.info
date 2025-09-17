@@ -1,0 +1,7 @@
+
+version  2025.1 # vivado/vitis
+
+#part xczu3eg-sbva484-1-i #U96v2
+#part xczu1cg-sbva484-1-e #ZUBoard
+#part xc7z020clg484-1     #zc702
+part xcau15p-ffvb676-2-e  #random artix Ulstrascale+ for testing
